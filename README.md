@@ -5,8 +5,11 @@ Fish represent small transactions (1 to 10 btc), Sharks represent large transact
 # Prerequisites
 
 Install Node.js
+
 `brew install node`
+
 Install Express
+
 `npm install express --save`
 
 # Deploy on Heroku:
